@@ -3,7 +3,7 @@ ToString Extension for StarUML
 
 This extension for StarUML(http://staruml.io) copies into clipboard the names and types of the diagram elements selected.
 
-![ToString](https://mrosalesdiaz.github.io/images/staruml-tostring.gif "Logo Title Text 1")
+![ToString](https://raw.githubusercontent.com/mrosalesdiaz/mrosalesdiaz.github.io/master/images/staruml-tostring.gif)
 
 
 ## ToString Formats
