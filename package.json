@@ -1,0 +1,18 @@
+{
+    "name": "staruml.copy",
+    "title": "ToString Diagram",
+    "description": "Copy into clipboard the names of the selected elements in the diagram.",
+    "homepage": "https://github.com/mrosalesdiaz/staruml-tostring",
+    "issues": "https://github.com/mrosalesdiaz/staruml-tostring/issues",
+    "keywords": ["clipboard","tostring","copy","names","types"],
+    "version": "0.0.1",
+    "author": {
+        "name": "Maximo Rosales Diaz",
+        "email": "mrosalesdiaz@gmail.com",
+        "url": "https://github.com/mrosalesdiaz"
+    },
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=3.0.0"
+    }
+}

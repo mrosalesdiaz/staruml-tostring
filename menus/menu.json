@@ -1,0 +1,17 @@
+{
+  "context-menu": {
+    "#diagram-canvas": [{
+      "type": "separator"
+    }, {
+      "id": "copyfromcanvas.copy",
+      "label": "ToString",
+      "submenu": [{
+        "label": "Names",
+        "command": "copyfromcanvas:copyNames"
+      }, {
+        "label": "Types and Names",
+        "command": "copyfromcanvas:copyNameAndTypes"
+      }]
+    }]
+  }
+}
